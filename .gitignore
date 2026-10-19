@@ -1,0 +1,35 @@
+# Environment variables & personal API keys
+.env
+env
+
+# OAuth & Authentication credentials
+client_secret*.json
+config/credentials/*
+youtube_token.json
+instagram_session.json
+
+# SQLite runtime database (contains personal video history)
+data/*.db
+data/*.sqlite3
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Intermediate temp files
+output/temp/*
+!output/temp/last_generated_script.json
+
+# Heavy exported video files (exclude from git repo)
+output/videos/*.mp4
+output/latest/*.mp4
+output/archive/
+
+# OS and Editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

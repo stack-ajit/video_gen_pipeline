@@ -1,0 +1,21 @@
+Topic
+   ↓
+LLM
+   ↓
+Script + Scene Prompts
+   ↓
+AI Video Generation
+   ↓
+Multiple 5–6 sec clips
+   ↓
+Python / FFmpeg
+   ↓
+30–60 sec video
+   ↓
+Voice + Music + Captions
+   ↓
+Final Video
+   ↓
+YouTube / Instagram API
+   ↓
+Scheduled Publishing
